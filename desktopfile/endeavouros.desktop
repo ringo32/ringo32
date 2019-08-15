@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Floating Endeavouros
+
+Comment=Bubbles the Endeavouros logo around the screen
+
+Exec=/usr/lib/xfce4-screensaver/floaters /usr/share/pixmaps/endeavouros-float.svg
+TryExec=/usr/lib/xfce4-screensaver/floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+OnlyShowIn=XFCE;
+Hidden=true
