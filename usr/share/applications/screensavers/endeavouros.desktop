@@ -3,7 +3,7 @@ Name=Floating Endeavouros
 
 Comment=Bubbles the Endeavouros logo around the screen
 
-Exec=/usr/lib/xfce4-screensaver/floaters /usr/share/pixmaps/endeavouros-float.svg
+Exec=/usr/lib/xfce4-screensaver/floaters /usr/share/pixmaps/endeavouros.svg
 TryExec=/usr/lib/xfce4-screensaver/floaters
 StartupNotify=false
 Terminal=false
