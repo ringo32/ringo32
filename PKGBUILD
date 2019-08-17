@@ -1,6 +1,4 @@
-# Maintainer: Lucas Saliés Brum <lucas@archlinux.com.br>
-# Contributor: /dev/rs0 <rs0@secretco.de.com>
-# Contributor: Robin Martinjak <rob@rmartinjak.de>
+# Maintainer: ringo
 
 pkgname=Endeavouros-xfce-screensaver-theme
 pkgver=1.0
